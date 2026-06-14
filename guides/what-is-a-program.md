@@ -71,6 +71,6 @@ There are many other types of data that you can use as arguments. Here are some 
 - Booleans, which is what programmers call the value that is either `true` or `false`.
 - Numbers, like `123` and `456.78`.
 - Lists, like `[1 2 3 4]`. Lists are enclosed with square brackets and are a very common way to work with sets of data.
-- The nothing value! In Elixir this is `nil`. It may be surprising that in programs we sometimes need to represent the concept of nothing, but this turns out to be a very common needs.
+- The nothing value! In Elixir this is `nil`. It may be surprising that in programs we sometimes need to represent the concept of nothing, but this turns out to be a very common need.
 
 So while the world is made up of functions, arguments, and comments, know that within these ideas live many different shapes. The work of learning to program is really learning these many shapes and then going further: learning how to combine them in ways that work well, solve human problems, and—when you’re at your best—are readable to others, conceptually sound, and visually elegant.
