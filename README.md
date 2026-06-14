@@ -8,14 +8,15 @@ To that end, it’s worth noting that no coding agent has been used to author an
 
 This repository (folders of code, for sharing) contains a few guides that act as prereading for those who might not be ready to jump straight into the codebase. I’d suggest working through this list in order. If you already understand one of the linked topics, please skip it and start where you think might be most useful. We start with the very basics.
 
-1. What is a program? (TODO)
+1. [What is a program?](./guides/what-is-a-program.md)
 2. What tools do programmers use to write and execute programs? (TODO)
 3. Why are there so many different programming languages? (TODO)
 4. What is Elixir, the programming language CuriousFox is written in, and what distinguishes it? (TODO)
 5. How do computer programs remember?  (TODO)
 6. Where do computer programs live? (TODO)
-7. When I visit a website like CuriousFox’s, what is really happening? (TODO)
-8. How does Elixir help and hinder making computer programs to power websites? (TODO)
+7. How do programmers track their changes and collaborate on programs?
+8. When I visit a website like CuriousFox’s, what is really happening? (TODO)
+9. How does Elixir help and hinder making computer programs to power websites? (TODO)
 
 ## Getting Started
 
